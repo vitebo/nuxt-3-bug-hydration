@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-3-bug-hydration",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "vitebo",
+  "license": "MIT"
+}
