@@ -2,6 +2,8 @@
 
 This repo is a minimal reproduction of a hydration bug in Nuxt 3 when use some lib that use `@vitejs/plugin-vue` to compile the vue files.
 
+[PR Link](https://github.com/vitejs/vite-plugin-vue/issues/225)
+
 ## Reproduction
 
 1. Run `nvm install` to install the correct version of node
